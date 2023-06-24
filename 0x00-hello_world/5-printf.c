@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point [A program that print a line using the printf functio]
+ * main -Entry point
+ * A program that print a line using the printf function
  * Return: 0 (Success)
  */
 
